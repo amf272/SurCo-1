@@ -120,5 +120,18 @@ python -m solve_surco.py --approach scip
 ```
 Results are written to `surco/nonlinear_shortest_path/results`.
 
+## Citation
+Please cite our paper if you use this code in your work.
+
+```
+@inproceedings{ferber2023surco,
+  title={SurCo: Learning Linear Surrogates for Combinatorial Nonlinear Optimization Problems},
+  author={Ferber, Aaron M and Huang, Taoan and Zha, Daochen and Schubert, Martin and Steiner, Benoit and Dilkina, Bistra and Tian, Yuandong},
+  booktitle={International Conference on Machine Learning},
+  year={2023},
+  organization={PMLR}
+}
+```
+
 ## LICENSE
 The project is under CC BY-NC 4.0. Please check LICENSE file for details.
